@@ -1,0 +1,8 @@
+{
+  "nativeApps": [
+    {
+      "name": "ElectrodeTest",
+      "platforms": []
+    }
+  ]
+}
