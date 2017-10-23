@@ -5,6 +5,20 @@
       "platforms": [
         {
           "name": "ios",
+          "config": {
+            "containerGenerator": {
+              "name":"github",
+              "targetRepoUrl":"git@github.com:minsoejs/electrode-test-container.git",
+              "containerVersion":"1.0.0",
+              "publishers":[
+                 {
+                    "name":"github",
+                    "url":"git@github.com:minsoejs/electrode-test-container.git"
+                 }
+              ]
+             }
+            }
+          },
           "versions": [
             {
               "name": "1.0",
