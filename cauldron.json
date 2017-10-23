@@ -9,7 +9,7 @@
             "containerGenerator": {
               "name": "github",
               "targetRepoUrl": "git@github.com:minsoejs/electrode-test-container.git",
-              "containerVersion": "1.0.0",
+              "containerVersion": "1.0.1",
               "publishers": [
                 {
                   "name": "github",
