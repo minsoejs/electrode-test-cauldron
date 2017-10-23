@@ -2,7 +2,12 @@
   "nativeApps": [
     {
       "name": "ElectrodeTest",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": []
+        }
+      ]
     }
   ]
 }
