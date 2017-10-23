@@ -33,7 +33,8 @@
                   "test-mini-app@0.0.1"
                 ],
                 "codePush": []
-              }
+              },
+              "containerVersion": "1.0.1"
             }
           ]
         }
