@@ -5,7 +5,20 @@
       "platforms": [
         {
           "name": "ios",
-          "versions": []
+          "versions": [
+            {
+              "name": "1.0",
+              "ernPlatformVersion": "0.8.0",
+              "isReleased": false,
+              "binary": null,
+              "yarnlock": null,
+              "nativeDeps": [],
+              "miniApps": {
+                "container": [],
+                "codePush": []
+              }
+            }
+          ]
         }
       ]
     }
