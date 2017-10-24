@@ -30,7 +30,8 @@
               ],
               "miniApps": {
                 "container": [
-                  "test-mini-app@0.0.1"
+                  "test-mini-app@0.0.1",
+                  "test-mini-app-two@0.0.1"
                 ],
                 "codePush": []
               },
